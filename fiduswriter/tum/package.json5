@@ -1,5 +1,5 @@
 {
     dependencies: {
-        "fwtoolkit": "^0.2.19"
+        "fwtoolkit": "^0.2.25"
     }
 }
